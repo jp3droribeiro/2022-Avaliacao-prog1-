@@ -108,22 +108,3 @@ class Individual:
             return False  
 
     
-#testes 
-
-'''pessoa1=Individual('Ai')
-print(pessoa1.name)
-print(pessoa1.genotype)
-print(pessoa1.blood_type)
-pessoa2=Individual('ii')
-print(pessoa2.name)
-print(pessoa2.genotype)
-print(pessoa2.blood_type)
-print(pessoa2.agglutinogens)
-print(pessoa2.agglutinins)
-print(pessoa2.can_receive(pessoa1))
-print(pessoa2.can_donate(pessoa1))
-print(pessoa1.offsprings_genotypes(pessoa2))
-print(pessoa1.offsprings_blood_types(pessoa2))'''
-
-
-
